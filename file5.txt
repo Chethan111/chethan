@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+file5.txt
+in master
+
+=======
+file5 
+in newone
+>>>>>>> newone
+this is 2nd time
+
